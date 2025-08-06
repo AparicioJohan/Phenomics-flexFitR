@@ -5,7 +5,6 @@
 library(flexFitR)
 library(dplyr)
 library(ggpubr)
-library(purrr)
 library(agriutilities)
 
 # -------------------------------------------------------------------------

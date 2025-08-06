@@ -6,10 +6,10 @@ In this module, we focus on modeling plant growth and phenotypic traits using no
 
 ## 🗂 Repository Contents
 
-- [`01_introduction.R`](01_introduction.R) – Introduction to the module, dataset loading, and exploratory data analysis  
+- [`01_introduction.R`](01_introduction.R) – Introduction to the module, dataset loading, and regression functions 
 - [`02_modeling.R`](02_modeling.R) – Fitting nonlinear models using `{flexFitR}`  
 - [`03_model_comparison.R`](03_model_comparison.R) – Comparing model fits with statistical metrics  
-- [`04_advance_modeling.R`](04_advance_modeling.R) – Advanced modeling: AUC, derivatives, parameter extraction  
+- [`04_advance_modeling.R`](04_advance_modeling.R) – Advanced modeling: Parallel processing, trait derivation, heritability. 
 - [`05_constraints.R`](05_constraints.R) – Fitting models under biological or experimental constraints
 
 ---

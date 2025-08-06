@@ -118,3 +118,5 @@ predict(new_object, x = 45, type = "point", se_interval = "prediction")
 predict(new_object, x = c(0, 108), type = "auc") # AUC Prediction
 predict(new_object, x = 45, type = "fd") # First Derivative
 predict(new_object, x = 45, type = "sd") # Second Derivative
+
+augment(new_object)

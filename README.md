@@ -16,5 +16,5 @@ In this module, we focus on modeling plant growth and phenotypic traits using no
 
 ## 📁 Additional Files
 
-- **`yield.csv`**  
+- [`yield.csv`](yield.csv)
   Example dataset with plot-level yield data. 

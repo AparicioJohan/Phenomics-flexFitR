@@ -1,6 +1,6 @@
 # Phenomics-flexFitR <a href="https://github.com/AparicioJohan/flexFitR" target="_blank"> <img src="https://raw.githubusercontent.com/AparicioJohan/flexFitR/refs/heads/master/man/figures/logo.png" width="120px" align="right"/> </a>
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AparicioJohan/Phenomics-flexFitR/main?urlpath=rstudio)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AparicioJohan/Phenomics-flexFitR/main)
 
 This repository contains all materials for the `{flexFitR}`  module of the course Applied Phenomics: From Data Acquisition to Decision-Making in Breeding, held from August 5th to 7th.
 

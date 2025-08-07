@@ -1,4 +1,4 @@
-# Phenomics-flexFitR <img src='https://raw.githubusercontent.com/AparicioJohan/flexFitR/refs/heads/master/man/figures/logo.png' width = "120px" align="right"/>
+# Phenomics-flexFitR <a href="https://github.com/AparicioJohan/flexFitR" target="_blank"> <img src="https://raw.githubusercontent.com/AparicioJohan/flexFitR/refs/heads/master/man/figures/logo.png" width="120px" align="right"/> </a>
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AparicioJohan/Phenomics-flexFitR/main?urlpath=rstudio)
 

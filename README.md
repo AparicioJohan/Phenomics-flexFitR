@@ -1,4 +1,4 @@
-# Phenomics-flexFitR
+# Phenomics-flexFitR <img src='https://raw.githubusercontent.com/AparicioJohan/flexFitR/refs/heads/master/man/figures/logo.png' width = "120px" align="right"/>
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AparicioJohan/Phenomics-flexFitR/main?urlpath=rstudio)
 
@@ -20,3 +20,7 @@ In this module, we focus on modeling plant growth and phenotypic traits using no
 
 - [`yield.csv`](yield.csv)
   Example dataset with plot-level yield data. 
+
+## 🔗 Related Resources
+
+- 📦 Official `flexFitR` repository: [https://github.com/AparicioJohan/flexFitR](https://github.com/AparicioJohan/flexFitR)
